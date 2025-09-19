@@ -28,6 +28,14 @@ To run the Fixed Deposit Calculator locally:
 
 ---
 
+## Usage
+
+1. **Fill in** the principal amount, interest rate, term (years/months), start date, and tax rate.
+2. **Press Calculate**.
+3. View summary and financial year-wise interest and tax.
+
+---
+
 ## License
 
 This project is licensed under the MIT License.
