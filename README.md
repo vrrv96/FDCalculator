@@ -8,7 +8,7 @@ A web-based application to calculate the interest and maturity amount for a fixe
 
 ## Demo
 
-https://fdcalculator.github.io
+Visit https://vrrv96.github.io/FDCalculator/
 
 ---
 
