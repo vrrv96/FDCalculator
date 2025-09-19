@@ -20,7 +20,7 @@ To run the Fixed Deposit Calculator locally:
   
    git clone https://github.com/vrrv96/FDCalculator.git
 
-   cd fixed-deposit-calculator
+   cd FDCalculator
    
 3. **Open the Application**:
 
