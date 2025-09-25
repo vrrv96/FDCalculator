@@ -8,7 +8,7 @@ A web-based application to calculate the interest and maturity amount for a fixe
 
 ## Demo
 
-Visit https://vrrv96.github.io/FDCalculator/
+Visit https://vrrv64.github.io/FDCalculator/
 
 ---
 
@@ -18,7 +18,7 @@ To run the Fixed Deposit Calculator locally:
 
 1. **Clone the Repository**:
   
-   git clone https://github.com/vrrv96/FDCalculator.git
+   git clone https://github.com/vrrv64/FDCalculator.git
 
    cd FDCalculator
    
